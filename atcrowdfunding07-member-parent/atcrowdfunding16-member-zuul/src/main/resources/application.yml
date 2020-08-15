@@ -1,0 +1,33 @@
+server:
+  port: 81
+spring:
+  application:
+    name: atguigu-crowd-zuul
+  redis:
+    host: 192.168.40.130
+    password: 123456
+  session:
+    store-type: redis
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+zuul:
+  ignored-services: "*"
+  sensitive-headers: "*"
+  routes:
+    crowd-portal:
+      service-id: atguigu-crowd-auth
+      path: /**
+    crowd-project:
+      service-id: atguigu-crowd-project
+      path: /project/**
+    crowd-order:
+      service-id: atguigu-crowd-order
+      path: /order/**
+    crowd-pay:
+      service-id: atguigu-crowd-pay
+      path: /pay/**
+ribbon:
+  ReadTimeout: 10000
+  ConnectTimeout: 10000

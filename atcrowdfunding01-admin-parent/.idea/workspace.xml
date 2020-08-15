@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="atcrowdfunding02-admin-webui:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5b2325e-2232-436d-9f1b-264e448aaee7" name="Default Changelist" comment="初次提交2" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/" />
+    <ignored path="$PROJECT_DIR$/atcrowdfunding03-admin-component/target/" />
+    <ignored path="$PROJECT_DIR$/atcrowdfunding04-admin-entity/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding05-common-util/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding06-common-reverse/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding08-member-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding11-member-redis-provider/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding16-member-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding17-member-api/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fillAuthTree</find>
+      <find>assgin/get/all/auth.json</find>
+      <find>mysql</find>
+      <find>com.atguigu.crowd.entity</find>
+      <find>发起</find>
+      <find>发起众</find>
+      <find>mySQLRemoteService</find>
+      <find>saveConfirm</find>
+      <find>/create/confirm</find>
+      <find>/save/project/vo/remote</find>
+      <find>create/confirm/page</find>
+      <find>getPortalTpeProjectDataRemote</find>
+      <find>www.</find>
+      <find>getDetailProjectVO</find>
+      <find>getPortalTypeProjectDataRemote</find>
+      <find>/get/portal/type/project/data/remote</find>
+      <find>getPortalTypeVO</find>
+      <find>selectPortalTypeVOList</find>
+      <find>www.atguigu</find>
+      <find>www</find>
+      <find>www.crowd.com</find>
+      <find>projectName</find>
+      <find>/get/order/project/vo/remote</find>
+      <find>您所选择的回报项信息和购买数量</find>
+      <find>order/confirm/order</find>
+      <find>selectOrderProjectVO</find>
+      <find>getOrderProjectVO</find>
+      <find>submitBtn</find>
+      <find>signalPurchase</find>
+      <find>confirm/order</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>localhost:81</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/src/main/java/com/atguigu/crowd/config/OSSProperties.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding05-common-util/src/main/java/com/atguigu/crowd/util/CrowdUtil.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/vo/MemberLoginVO.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/TypePOMapper.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/TagPOMapper.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/MemberConfirmInfoPOMapper.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/MemberLaunchInfoPOMapper.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/src/main/resources/templates/member-crowd.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding05-common-util/src/main/java/com/atguigu/crowd/constant/CrowdConstant.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/src/main/java/com/atguigu/crowd/config/CrowdWebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/api/ProjectProviderService.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/ProjectItemPicPOMapper.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/ProjectItemPicPOMapper.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/ReturnPOMapper.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/ReturnPOMapper.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/impl/ProjectProviderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding17-member-api/src/main/java/com/atguigu/crowd/api/MySQLRemoteService.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding17-member-api/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/impl/ProjectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/src/main/java/com/atguigu/crowd/Atcrowdfunding13MemberProjectConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/src/main/resources/templates/project-return.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/ProjectPOMapper.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/ProjectPOMapper.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/src/main/java/com/atguigu/crowd/handler/PortalHandler.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/test/java/com/atguigu/crowd/MyBatisTest.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/service/api/ProjectService.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/service/impl/ProjectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/handler/ProjectProviderHandler.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/src/main/resources/templates/Portal.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/src/main/java/com/atguigu/crowd/handler/ProjectConsumerHandler.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/main/java/com/atguigu/crowd/Atcrowdfunding14MemberOrderConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding06-common-reverse/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/src/main/resources/templates/project-show-detail.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/OrderProjectPOMapper.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/OrderProjectPOMapper.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/main/resources/templates/confirm_order.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/main/resources/templates/confirm_return.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/main/java/com/atguigu/crowd/handler/OrderHandler.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/src/main/java/com/atguigu/crowd/handler/PayHandler.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding17-member-api/src/main/java/com/atguigu/crowd/service/api/MySQLRemoteService.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/handler/OrderProviderHandler.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/service/api/OrderService.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/OrderPOMapper.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/src/main/java/com/atguigu/crowd/Atcrowdfunding15MemberPayConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding16-member-zuul/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/maven/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Program Files\maven\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\idea_workspace\zs\atcrowdfunding07-member-parent\atcrowdfunding10-member-mysql-provider\src\main\resources\mybatis\mapper" />
+      <recent name="F:\idea_workspace\zs\atcrowdfunding01-admin-parent\atcrowdfunding02-admin-webui\src\main\resources" />
+      <recent name="F:\idea_workspace\zs\atcrowdfunding01-admin-parent\atcrowdfunding02-admin-webui\src\main\resources\mybatis\mapper" />
+      <recent name="F:\idea_workspace\zs\atcrowdfunding01-admin-parent\atcrowdfunding02-admin-webui\src\main\resources\mybatis" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.crowd.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea_workspace\zs\atcrowdfunding07-member-parent\atcrowdfunding15-member-pay-consumer\src\main\java\com\atguigu\crowd\config" />
+      <recent name="F:\idea_workspace\zs\atcrowdfunding07-member-parent\atcrowdfunding14-member-order-consumer\src\main\resources\templates" />
+      <recent name="F:\idea_workspace\zs\atcrowdfunding07-member-parent\atcrowdfunding09-member-entity\src\main\java\com\atguigu\crowd\entity\vo" />
+      <recent name="F:\idea_workspace\zs\atcrowdfunding07-member-parent\atcrowdfunding13-member-project-consumer\src\main\resources\templates" />
+      <recent name="F:\idea_workspace\zs\atcrowdfunding07-member-parent\atcrowdfunding13-member-project-consumer\src\main\java\com\atguigu\crowd\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Atcrowdfunding15MemberPayConsumerApplication">
+    <configuration name="MyGennerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowd.MyGennerator" />
+      <module name="atcrowdfunding06-common-reverse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.testLoadDetailProjectVO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding10-member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crowd" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowd.MyBatisTest" />
+      <option name="METHOD_NAME" value="testLoadDetailProjectVO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.testLoadTypeData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding10-member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crowd" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowd.MyBatisTest" />
+      <option name="METHOD_NAME" value="testLoadTypeData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.testMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding10-member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crowd" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowd.MyBatisTest" />
+      <option name="METHOD_NAME" value="testMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.testSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atcrowdfunding11-member-redis-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crowd.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowd.test.RedisTest" />
+      <option name="METHOD_NAME" value="testSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcrowdfunding08MemberEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding08-member-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.Atcrowdfunding08MemberEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcrowdfunding09MemberEntityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding09-member-entity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.Atcrowdfunding09MemberEntityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcrowdfunding10MemberMysqlProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding10-member-mysql-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.Atcrowdfunding10MemberMysqlProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcrowdfunding11MemberRedisProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding11-member-redis-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.Atcrowdfunding11MemberRedisProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcrowdfunding12MemberAuthenticationConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding12-member-authentication-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.Atcrowdfunding12MemberAuthenticationConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcrowdfunding13MemberProjectConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding13-member-project-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.Atcrowdfunding13MemberProjectConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcrowdfunding14MemberOrderConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding14-member-order-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.Atcrowdfunding14MemberOrderConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcrowdfunding15MemberPayConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding15-member-pay-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.Atcrowdfunding15MemberPayConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcrowdfunding16MemberZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding16-member-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.Atcrowdfunding16MemberZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcrowdfunding17MemberApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding17-member-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.Atcrowdfunding17MemberApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/atcrowdfunding02_admin_webui_war/admin/to/login/page.html" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="atcrowdfunding02-admin-webui:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/atcrowdfunding02_admin_webui_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_atcrowdfunding01-admin-parent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60068" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="atcrowdfunding02-admin-webui:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyGennerator" />
+      <item itemvalue="JUnit.MyBatisTest.testMapper" />
+      <item itemvalue="JUnit.RedisTest.testSet" />
+      <item itemvalue="JUnit.MyBatisTest.testLoadTypeData" />
+      <item itemvalue="JUnit.MyBatisTest.testLoadDetailProjectVO" />
+      <item itemvalue="Spring Boot.Atcrowdfunding08MemberEurekaApplication" />
+      <item itemvalue="Spring Boot.Atcrowdfunding09MemberEntityApplication" />
+      <item itemvalue="Spring Boot.Atcrowdfunding10MemberMysqlProviderApplication" />
+      <item itemvalue="Spring Boot.Atcrowdfunding11MemberRedisProviderApplication" />
+      <item itemvalue="Spring Boot.Atcrowdfunding12MemberAuthenticationConsumerApplication" />
+      <item itemvalue="Spring Boot.Atcrowdfunding13MemberProjectConsumerApplication" />
+      <item itemvalue="Spring Boot.Atcrowdfunding14MemberOrderConsumerApplication" />
+      <item itemvalue="Spring Boot.Atcrowdfunding15MemberPayConsumerApplication" />
+      <item itemvalue="Spring Boot.Atcrowdfunding16MemberZuulApplication" />
+      <item itemvalue="Spring Boot.Atcrowdfunding17MemberApiApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.27" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyGennerator" />
+        <item itemvalue="JUnit.MyBatisTest.testLoadDetailProjectVO" />
+        <item itemvalue="JUnit.MyBatisTest.testLoadTypeData" />
+        <item itemvalue="JUnit.RedisTest.testSet" />
+        <item itemvalue="JUnit.MyBatisTest.testMapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5b2325e-2232-436d-9f1b-264e448aaee7" name="Default Changelist" comment="" />
+      <created>1593743361453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593743361453</updated>
+      <workItem from="1593743364969" duration="640000" />
+      <workItem from="1593744072848" duration="14013000" />
+      <workItem from="1593771107965" duration="8000" />
+      <workItem from="1594171869539" duration="12622000" />
+      <workItem from="1594259459624" duration="8497000" />
+      <workItem from="1594343402025" duration="19174000" />
+      <workItem from="1594432326208" duration="9088000" />
+      <workItem from="1594455450257" duration="4222000" />
+      <workItem from="1594691702127" duration="6960000" />
+      <workItem from="1594774552591" duration="10036000" />
+      <workItem from="1594859933343" duration="6665000" />
+      <workItem from="1595055558104" duration="5129000" />
+      <workItem from="1595317609895" duration="7051000" />
+      <workItem from="1595377705518" duration="2813000" />
+      <workItem from="1595383208341" duration="149000" />
+      <workItem from="1595476540685" duration="2972000" />
+      <workItem from="1595553916325" duration="12627000" />
+      <workItem from="1595636171414" duration="9115000" />
+      <workItem from="1596251585214" duration="196000" />
+      <workItem from="1596251824867" duration="9172000" />
+      <workItem from="1596274532924" duration="645000" />
+      <workItem from="1596502018291" duration="18788000" />
+      <workItem from="1596535877481" duration="2848000" />
+      <workItem from="1596584827736" duration="14550000" />
+      <workItem from="1596683040269" duration="12039000" />
+      <workItem from="1596762590140" duration="13507000" />
+      <workItem from="1596848227641" duration="8103000" />
+      <workItem from="1596859790560" duration="4306000" />
+      <workItem from="1597108379546" duration="6142000" />
+      <workItem from="1597130902720" duration="7755000" />
+      <workItem from="1597192027771" duration="10240000" />
+      <workItem from="1597277387323" duration="19759000" />
+      <workItem from="1597371282394" duration="10049000" />
+      <workItem from="1597451024731" duration="3779000" />
+      <workItem from="1597455478664" duration="203000" />
+      <workItem from="1597455706652" duration="1086000" />
+    </task>
+    <task id="LOCAL-00001" summary="初次提交">
+      <created>1597454623051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597454623051</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初次提交1">
+      <created>1597455239811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597455239811</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyBatisTest_testConnection - 2020.08.01 at 15h 21m 14s.xml">
+      <configuration name="MyBatisTest.testConnection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testMapper - 2020.08.01 at 15h 47m 43s.xml">
+      <configuration name="MyBatisTest.testMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testMapper - 2020.08.01 at 15h 48m 34s.xml">
+      <configuration name="MyBatisTest.testMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testMapper - 2020.08.01 at 15h 50m 06s.xml">
+      <configuration name="MyBatisTest.testMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testMapper - 2020.08.01 at 15h 51m 40s.xml">
+      <configuration name="MyBatisTest.testMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testMapper - 2020.08.01 at 15h 59m 35s.xml">
+      <configuration name="MyBatisTest.testMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_testSet - 2020.08.04 at 11h 47m 37s.xml">
+      <configuration name="RedisTest.testSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_testSet - 2020.08.04 at 11h 48m 16s.xml">
+      <configuration name="RedisTest.testSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testLoadTypeData - 2020.08.11 at 17h 05m 27s.xml">
+      <configuration name="MyBatisTest.testLoadTypeData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_testLoadDetailProjectVO - 2020.08.12 at 09h 21m 40s.xml">
+      <configuration name="MyBatisTest.testLoadDetailProjectVO" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="274948000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2708018" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.32980332" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.6207483" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.3282313" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.33560476" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.24190801" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.2793867" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32879046" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.40646258" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3282313" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.29982963" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32879046" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="初次提交" />
+    <MESSAGE value="初次提交1" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次提交1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/mvc/handler/MenuHandler.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/src/main/java/com/atguigu/crowd/handler/PayHandler.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/src/main/resources/templates/Portal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="337" column="63" lean-forward="true" selection-start-line="337" selection-start-column="63" selection-end-line="337" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#7978#7985#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#8452#8459#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#8928#8935#0" expanded="true" />
+            <element signature="n#style#0;n#small#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/src/main/java/com/atguigu/crowd/handler/ProjectConsumerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/service/api/ProjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/ProjectPOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="35" column="51" lean-forward="true" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/ProjectPOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding12-member-authentication-consumer/src/main/java/com/atguigu/crowd/handler/PortalHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/handler/ProjectProviderHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding06-common-reverse/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="53" column="75" selection-start-line="53" selection-start-column="75" selection-end-line="53" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding06-common-reverse/src/test/java/com/atguigu/crowd/MyGennerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/po/AddressPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/po/AddressPOExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/po/OrderPOExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/po/OrderProjectPOExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/po/OrderPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/AddressPOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/OrderPOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/vo/AddressVO.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/vo/MemberLoginVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/vo/MemberLauchInfoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/vo/MemberConfirmInfoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding13-member-project-consumer/src/main/resources/templates/project-show-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#h3#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/MemberLaunchInfoPOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/mapper/OrderProjectPOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/test/java/com/atguigu/crowd/Atcrowdfunding14MemberOrderConsumerApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/main/java/com/atguigu/crowd/Atcrowdfunding14MemberOrderConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/po/OrderProjectPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/service/impl/ProjectServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1174">
+          <caret line="173" column="17" selection-start-line="173" selection-start-column="17" selection-end-line="173" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3804#3814#0" expanded="true" />
+            <element signature="e#4529#4530#0" expanded="true" />
+            <element signature="e#4592#4593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/OrderProjectPOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/main/resources/templates/confirm_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6858">
+          <caret line="97" column="55" lean-forward="true" selection-start-line="97" selection-start-column="55" selection-end-line="97" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/main/resources/templates/confirm_return.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="275" column="70" selection-start-line="275" selection-start-column="56" selection-end-line="275" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#p#0;n#blockquote#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#blockquote#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/Atcrowdfunding10MemberMysqlProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding14-member-order-consumer/src/main/java/com/atguigu/crowd/handler/OrderHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/src/main/java/com/atguigu/crowd/config/PayProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding17-member-api/src/main/java/com/atguigu/crowd/service/api/MySQLRemoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="41" column="68" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/handler/OrderProviderHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/service/api/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/java/com/atguigu/crowd/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="78" column="58" lean-forward="true" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/OrderPOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="105" column="74" selection-start-line="105" selection-start-column="74" selection-end-line="105" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/vo/OrderVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/src/test/java/com/atguigu/crowd/Atcrowdfunding15MemberPayConsumerApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/src/main/java/com/atguigu/crowd/entity/vo/OrderProjectVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/src/main/java/com/atguigu/crowd/Atcrowdfunding15MemberPayConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/src/main/java/com/atguigu/crowd/handler/PayHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="158" column="36" selection-start-line="158" selection-start-column="31" selection-end-line="158" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1544#1559#0" expanded="true" />
+            <element signature="e#3834#3849#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding15-member-pay-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="27" column="46" lean-forward="true" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding16-member-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding10-member-mysql-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding09-member-entity/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07-member-parent/atcrowdfunding08-member-eureka/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>atcrowdfunding17-member-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
